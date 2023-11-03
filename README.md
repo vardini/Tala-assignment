@@ -13,9 +13,9 @@ STEPS:
 3. Create a App.java file and execute the code
 
 Dependencies:
-1. Rest Assured - <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
-2. TestNg - <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-3. JSON Simple- <!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+1. Rest Assured -  https://mvnrepository.com/artifact/io.rest-assured/rest-assured
+2. TestNg -  https://mvnrepository.com/artifact/org.testng/testng
+3. JSON Simple- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple
    
 
 
